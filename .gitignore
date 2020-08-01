@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 .idea/
+app/src/main/java/com/zhaoyi/accnews/network/Constants.java
